@@ -18,8 +18,8 @@ Open source should be something people can actually run, inspect, fork, and impr
 | --- | --- | --- | ---: |
 | [Email SDK](https://github.com/opencoredev/email-sdk) | Public | A lightweight TypeScript email SDK for Resend, Postmark, SendGrid, Mailgun, Brevo, SMTP, and more. | ![stars](https://img.shields.io/github/stars/opencoredev/email-sdk?style=flat&label=%E2%98%85) |
 | [OpenChat / OSSChat](https://github.com/opencoredev/openchat) | Open source | An open-source AI chat platform with BYOK and self-hosting support. | ![stars](https://img.shields.io/github/stars/opencoredev/openchat?style=flat&label=%E2%98%85) |
-| [Convt](https://github.com/opencoredev/convt) | Public | A local-first file converter. | ![stars](https://img.shields.io/github/stars/opencoredev/convt?style=flat&label=%E2%98%85) |
 | [TheoCounter](https://github.com/opencoredev/theocounter) | Web | A simple site that tracks how long Theo has not posted. | ![stars](https://img.shields.io/github/stars/opencoredev/theocounter?style=flat&label=%E2%98%85) |
+| [Convt](https://github.com/opencoredev/convt) | Public | A local-first file converter. | ![stars](https://img.shields.io/github/stars/opencoredev/convt?style=flat&label=%E2%98%85) |
 | [ClaudeDay](https://github.com/opencoredev/claudeday) | Web | A small site for national Claude day. | ![stars](https://img.shields.io/github/stars/opencoredev/claudeday?style=flat&label=%E2%98%85) |
 | [Agent Center](https://github.com/opencoredev/agent-center) | Unreleased | A control plane for starting, steering, and reviewing background coding agents. | ![stars](https://img.shields.io/github/stars/opencoredev/agent-center?style=flat&label=%E2%98%85) |
 | [Amend.sh](https://github.com/opencoredev/amend.sh) | Beta | Product update automation for feedback, shipped work, changelogs, roadmaps, and customer notifications. | ![stars](https://img.shields.io/github/stars/opencoredev/amend.sh?style=flat&label=%E2%98%85) |
