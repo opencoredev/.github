@@ -23,8 +23,8 @@ Open source should be something people can actually run, inspect, fork, and impr
 | [ClaudeDay](https://github.com/opencoredev/claudeday) | Web | A small site for national Claude day. | ![stars](https://img.shields.io/github/stars/opencoredev/claudeday?style=flat&label=%E2%98%85) |
 | [Agent Center](https://github.com/opencoredev/agent-center) | Unreleased | A control plane for starting, steering, and reviewing background coding agents. | ![stars](https://img.shields.io/github/stars/opencoredev/agent-center?style=flat&label=%E2%98%85) |
 | [Amend.sh](https://github.com/opencoredev/amend.sh) | Beta | Product update automation for feedback, shipped work, changelogs, roadmaps, and customer notifications. | ![stars](https://img.shields.io/github/stars/opencoredev/amend.sh?style=flat&label=%E2%98%85) |
-| [OpenBlocks](https://github.com/opencoredev/openblocks) | Experiment | An open web project for building with reusable blocks. | ![stars](https://img.shields.io/github/stars/opencoredev/openblocks?style=flat&label=%E2%98%85) |
 | [Beppo](https://github.com/opencoredev/beppo) | WIP | A desktop workspace for delegating general tasks to AI agents. | ![stars](https://img.shields.io/github/stars/opencoredev/beppo?style=flat&label=%E2%98%85) |
+| [OpenBlocks](https://github.com/opencoredev/openblocks) | Experiment | An open web project for building with reusable blocks. | ![stars](https://img.shields.io/github/stars/opencoredev/openblocks?style=flat&label=%E2%98%85) |
 | [Better Files](https://github.com/opencoredev/better-files) | Native | Swift-based file tooling experiments for macOS. | ![stars](https://img.shields.io/github/stars/opencoredev/better-files?style=flat&label=%E2%98%85) |
 | [cc-sync](https://github.com/opencoredev/cc-sync) | Active | A CLI and sync service for keeping agent skills and MCP configuration in sync across machines. | ![stars](https://img.shields.io/github/stars/opencoredev/cc-sync?style=flat&label=%E2%98%85) |
 
